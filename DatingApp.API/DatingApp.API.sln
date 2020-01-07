@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.API", "DatingApp.API.csproj", "{903E96E9-780D-493B-B215-E4628F6DC5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Tests", "..\DatingApp.Tests\DatingApp.Tests.csproj", "{1C1EEA4F-8FCE-451F-B995-21263E6A0223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903E96E9-780D-493B-B215-E4628F6DC5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903E96E9-780D-493B-B215-E4628F6DC5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903E96E9-780D-493B-B215-E4628F6DC5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903E96E9-780D-493B-B215-E4628F6DC5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1EEA4F-8FCE-451F-B995-21263E6A0223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1EEA4F-8FCE-451F-B995-21263E6A0223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1EEA4F-8FCE-451F-B995-21263E6A0223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1EEA4F-8FCE-451F-B995-21263E6A0223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		BaseDirectory = .
+	EndGlobalSection
+EndGlobal
